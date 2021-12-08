@@ -81,3 +81,4 @@ crashlytics-build.properties
  ProjectName/*.unityproj
  ProjectName/*.userprefs
 augmented-reality-internship/Packages/com.ptc.vuforia.engine-10.3.2.tgz
+*.tgz
